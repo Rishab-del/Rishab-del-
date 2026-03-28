@@ -113,11 +113,11 @@ Opportunities, collaborations, and discussions in software development and tech 
 
 <p align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rishab-del&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Rishab-del&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rishab-del&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Rishab-del&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-del&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-del&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -127,6 +127,6 @@ Opportunities, collaborations, and discussions in software development and tech 
 
 <p align="center">
 
-![Snake animation](https://github.com/Rishab-del/Rishab-del/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Rishab-del/Rishab-del/output/github-contribution-grid-snake.svg" />
 
 </p>
