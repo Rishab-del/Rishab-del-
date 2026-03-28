@@ -115,6 +115,13 @@ Opportunities, collaborations, and discussions in software development and tech 
 
 <img src="https://streak-stats.demolab.com?user=Rishab-del&theme=tokyonight" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishab-del&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-del&layout=compact&theme=tokyonight" />
 
 </p>
 
